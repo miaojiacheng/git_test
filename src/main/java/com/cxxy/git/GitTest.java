@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello git master test1!");
         System.out.println("hello git hot fix test1!");
         System.out.println("hello git push test!");
+        System.out.println("replace on github web!");
     }
 }
